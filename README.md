@@ -114,7 +114,6 @@ outlier_labels = isolation_forest.fit_predict(outlier_detection_df)
 
 ---
 For detailed implementation and code examples, please refer to the Jupyter notebook.
-------
 
 
 ## Dataset
