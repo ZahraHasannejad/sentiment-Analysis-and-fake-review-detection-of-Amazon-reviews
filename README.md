@@ -114,8 +114,11 @@ outlier_labels = isolation_forest.fit_predict(outlier_detection_df)
 
 ---
 For detailed implementation and code examples, please refer to the Jupyter notebook.
+---
+
 
 📁 Dataset
+
 The dataset used in this project is not included in this repository.
 
 👉 You can access the original dataset from the following source:
@@ -128,7 +131,9 @@ language processing (EMNLP-IJCNLP) (pp. 188-197).]
 
 If you're using a modified or custom-labeled version of the dataset, please contact the author for more information.
 
+
 🚨 Notice
+
 ⚠️ This repository is part of an ongoing academic research project.
 The code is released under the MIT License for educational and non-commercial use.
 Please do not reuse this work in publications or derivative projects without proper citation or prior permission.
@@ -136,6 +141,7 @@ If you're interested in collaborating, feel free to get in touch!
 
 
 📬 Contact
+
 Zahra Hasannejad
 📧 zahra.hasannejad1998@gmail.com
 🌐 GitHub: Zahra Hasannejad
